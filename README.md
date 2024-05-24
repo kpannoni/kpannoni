@@ -3,11 +3,15 @@
 I'm a neuroscientist / data analyst / bioimage analyst with a PhD in Neuroscience, who just began a journey into machine learning.
 Currently working in the [Farris Lab](https://github.com/Farris-lab) at the Fralin Biomedical Research Institute as a Senior Research Associate.
 
+I just recently joined the world of GitHub, so pardon the dust as I build up my repositories.
+
+<h3 align="left">About Me:</h3>
+
 - 👀 Looking for data analysis or image analysis positions in the life sciences 
 - 🌎 Location: Roanoke, VA
 - 📫 Email Me: pannoni@vt.edu
 - 😄 Pronouns: She / Her
-- ⚡ Hobbies: music, reading, writing, petting my cat 🐈
+- ⚡ Hobbies: music, reading, writing, cat mom 🐈
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -33,8 +37,8 @@ Currently working in the [Farris Lab](https://github.com/Farris-lab) at the Fral
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Katy Pannoni" height="30" width="40"></a>
  <a href="https://x.com/Pina123" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Katy Pannoni" height="30" width="40">
-  <a href="https://instagram.com/angelofcaffeine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Katy Pannoni" height="30" width="40" />
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Katy Pannoni" height="30" width="40"></a>
+  <a href="https://instagram.com/angelofcaffeine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Katy Pannoni" height="30" width="40"></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kepannoni&label=Profile%20views&color=0e75b6&style=flat" alt="kepannoni" /> </p> </div>
