@@ -3,7 +3,8 @@
 I'm a neuroscientist / data analyst / bioimage analyst with a PhD in Neuroscience, who just began a journey into machine learning.
 Currently working in the [Farris Lab](https://github.com/Farris-lab) at the Fralin Biomedical Research Institute as a Senior Research Associate.
 
-I just recently joined the world of GitHub, so pardon the dust as I build up my repositories.
+Note that a lot of the coding I do currently is not available in a public repository, as I'm typically analyzing data that hasn't been published yet.
+However, I do have a couple of public repositories available with published datasets or side projects.
 
 <h3 align="left">About Me:</h3>
 
