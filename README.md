@@ -9,7 +9,6 @@ Note that some repositories are not public as they involve analyses and data tha
 - 👀 Looking for data analysis or image analysis positions in the life sciences 
 - 🌎 Location: Roanoke, VA
 - 📫 Email Me: pannoni@vt.edu
-- 😄 Pronouns: She / Her
 - ⚡ Hobbies: music, reading, writing, cat mom 🐈
 
 <!--h1 without bottom border-->
