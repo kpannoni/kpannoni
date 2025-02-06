@@ -9,6 +9,7 @@ Note that some repositories are not public as they involve analyses and data tha
 - 👀 Looking for data analysis or image analysis positions in the life sciences 
 - 🌎 Location: Roanoke, VA
 - 📫 Email Me: pannoni@vt.edu
+- :link: Website: <a href="https://kepannoni.weebly.com/">https://kepannoni.weebly.com</a>
 - ⚡ Hobbies: music, reading, writing, cat mom 🐈
 
 <!--h1 without bottom border-->
