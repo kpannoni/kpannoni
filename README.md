@@ -26,8 +26,8 @@ Note that some repositories are not public as they involve analyses and data tha
 </p>
 <p align="center">
 <img align="center" width="50" src="https://imagej.net/media/icons/fiji.svg" alt="FIJI"> <img align="center" width="50" src="https://www.hearne.software/Images/Software-Icons/Software-Header-Icons/Graphpad-Prism-Square.aspx" alt="Graphpad Prism"> 
-<img align="center" width="50" src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="Pandas"> <img align="center" width="50" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt= "Matplotlib">
-<img align="center" width="50" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn">
+<img align="center" width="50" src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="Pandas"> <img align="center" width="50" src="https://github.com/kpannoni/kpannoni/blob/main/matplotlib-seeklogo.png" alt= "Matplotlib">
+<img align="center" width="50" src="https://github.com/kpannoni/kpannoni/blob/main/seaborn-seeklogo.png" alt="Seaborn">
 </p>
 <div>
 <h3 align="left">Connect with me:</h3>
