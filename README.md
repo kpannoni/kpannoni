@@ -6,9 +6,9 @@ Note that some repositories are not public as they involve analyses and data tha
 
 <h3 align="left">About Me:</h3>
 
-- 👀 Looking for data analysis or image analysis positions in the life sciences 
-- 🌎 Location: Roanoke, VA
-- 📫 Email Me: pannoni@vt.edu
+- 👀 Looking for data science positions in the healthcare sector 
+- 🌎 Location: Kingston, NY
+- 📫 Email Me: kepannoni@gmail.com
 - :link: Website: <a href="https://kepannoni.weebly.com/">https://kepannoni.weebly.com</a>
 - ⚡ Hobbies: music, reading, writing, cat mom 🐈
 
