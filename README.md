@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Katy Pannoni</h1>
 
-I'm a data scientist with a neuroscience Ph.D. and 10+ years of experience extracting insights from complex biological datasets. Here you'll find various coding projects, from machine learning to image processing to data analysis and visualization. My prefered language is Python, but I also have experience with SQL, MATLAB and some R.
+I'm a data scientist with a neuroscience Ph.D. and 10+ years of experience extracting insights from complex biological datasets. Here you'll find various coding projects, from machine learning to image processing to data analysis and visualization. My prefered language is Python, but I also have experience with SQL, MATLAB and R.
 
 Note that some repositories are not public as they involve analyses and data that haven't been published yet.
 
