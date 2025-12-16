@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Katy Pannoni</h1>
 
-I'm a data scientist with a PhD in Neuroscience who just began a journey into machine learning. I graduated last year from a 6-month bootcamp on Machine Learning & AI from Fullstack academy. Here you'll find various coding projects, from machine learning to image processing to data analysis and plotting. My prefered language is Python, but I have some experience with R, MatLab and Mathematica.
+I'm a data scientist with a neuroscience Ph.D. and 10+ years of experience extracting insights from complex biological datasets. Here you'll find various coding projects, from machine learning to image processing to data analysis and visualization. My prefered language is Python, but I also have experience with SQL, MATLAB and some R.
 
 Note that some repositories are not public as they involve analyses and data that haven't been published yet.
 
@@ -21,7 +21,7 @@ Note that some repositories are not public as they involve analyses and data tha
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,tensorflow,pytorch,github,matlab&perline=14"/> 
+    <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,tensorflow,pytorch,postgresql,matlab,github&perline=12"/> 
   </a>
 </p>
 <p align="center">
